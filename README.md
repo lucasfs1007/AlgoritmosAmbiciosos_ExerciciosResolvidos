@@ -17,7 +17,8 @@ A aplicação dos conceitos de Algoritmos Ambiciosow aprendidos na disciplina de
 
 | Exercício | Dificuldade | Id Leetcode | Linguagem | Código |
 | -- | -- | -- | -- | -- |
-| [2071 - Número máximo de tarefas que você pode atribuir](https://github.com/lucasfs1007/Grafos1_ExerciciosResolvidos/blob/master/2360%20-%20Ciclo%20mais%20longo%20em%20um%20gr%C3%A1fico.pdf) | Dificil | [2071](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/) | Python3 | [2071-MaximoTarefasAtribuir.py](https://github.com/lucasfs1007/Grafos1_ExerciciosResolvidos/blob/master/2071-MaximoTarefasAtribuir.py) |
+| [2071 - Número máximo de tarefas que você pode atribuir](link) | Dificil | [2071](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/) | Python3 | [2071-MaximoTarefasAtribuir.py](https://github.com/lucasfs1007/Grafos1_ExerciciosResolvidos/blob/master/2071-MaximoTarefasAtribuir.py) |
+| [1235 - Lucro Máximo no Agendamento de Trabalho](link) | Dificil | [1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | Python3 | [1235-LucroMaximoAgendamentoTrabalhor.py](https://github.com/lucasfs1007/Grafos1_ExerciciosResolvidos/blob/master/1235-LucroMaximoAgendamentoTrabalhor.py) |
 
 
 ## Video
@@ -30,6 +31,9 @@ A aplicação dos conceitos de Algoritmos Ambiciosow aprendidos na disciplina de
 
 ![2360](2071-MaximoTarefasAtribuir.png)
 
+### 1235 - Lucro Máximo no Agendamento de Trabalho
+
+![1235](1235-LucroMaximoAgendamentoTrabalhor.png)
 
 ## Instalação 
 
