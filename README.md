@@ -22,6 +22,7 @@ A aplicação dos conceitos de **Algoritmos Ambicioso** aprendidos na disciplina
 | [1235 - Lucro Máximo no Agendamento de Trabalho](link) | Dificil | [1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | Python3 | [1235-LucroMaximoAgendamentoTrabalhor.py](https://github.com/lucasfs1007/Grafos1_ExerciciosResolvidos/blob/master/1235-LucroMaximoAgendamentoTrabalhor.py) |
 | [135 - Doces](https://github.com/projeto-de-algoritmos/AlgoritmosAmbiciosos_ExerciciosResolvidos/blob/master/135-doce.pdf) | Dificil | [135](https://leetcode.com/problems/candy/description/) | JavaScricpt| [135-doces.js](https://github.com/projeto-de-algoritmos/AlgoritmosAmbiciosos_ExerciciosResolvidos/blob/master/135-doces.js) |
 | [322 - Mudança de Moeda](https://github.com/projeto-de-algoritmos/AlgoritmosAmbiciosos_ExerciciosResolvidos/blob/master/322-mudancaMoeda.pdf) | Médio | [322](https://leetcode.com/problems/coin-change/description/) | JavaScricpt| [322-mudancaMoeda.js](https://github.com/projeto-de-algoritmos/AlgoritmosAmbiciosos_ExerciciosResolvidos/blob/master/322-mudancaMoeda.js) |
+| [632 - Menores elementos de cobertura de intervalo das listas K](https://github.com/projeto-de-algoritmos/AlgoritmosAmbiciosos_ExerciciosResolvidos/blob/master/632-menoresElementosLista.pdf) | Dificil| [632](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/) | JavaScricpt| [632-MenorLista.js](https://github.com/projeto-de-algoritmos/AlgoritmosAmbiciosos_ExerciciosResolvidos/blob/master/632MenorLista.js) |
 
 ## Video
 
@@ -44,6 +45,10 @@ A aplicação dos conceitos de **Algoritmos Ambicioso** aprendidos na disciplina
 ### 322 - Mudança de Moeda
 
 ![322](322-tentativa.png)
+
+### 632 - Menores elementos de cobertura de intervalo das listas K
+
+![632](632-tentativa.png)
 
 ## Instalação 
 
