@@ -36,7 +36,7 @@ A aplicação dos conceitos de **Algoritmos Ambicioso** aprendidos na disciplina
 
 ### 1235 - Lucro Máximo no Agendamento de Trabalho
 
-![1235](1235-LucroMaximoAgendamentoTrabalhor.PNG)
+![1235](1235-LucroMaximoAgendamentoTrabalho.PNG)
 
 ### 135 - Doces
 
