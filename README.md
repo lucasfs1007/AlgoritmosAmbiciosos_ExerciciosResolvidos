@@ -32,11 +32,11 @@ A aplicação dos conceitos de **Algoritmos Ambicioso** aprendidos na disciplina
 
 ### 2071 - Número máximo de tarefas que você pode atribuir
 
-![2071](2071-MaximoTarefasAtribuir.png)
+![2071](2071-MaximoTarefasAtribuir.PNG)
 
 ### 1235 - Lucro Máximo no Agendamento de Trabalho
 
-![1235](1235-LucroMaximoAgendamentoTrabalhor.png)
+![1235](1235-LucroMaximoAgendamentoTrabalhor.PNG)
 
 ### 135 - Doces
 
