@@ -42,7 +42,7 @@ A aplicação dos conceitos de **Algoritmos Ambicioso** aprendidos na disciplina
 
 ### 435 - Intervalos não sobrepostos
 
-![1235](1235-435-IntervalosNaoSobrepostos.PNG)
+![435](435-IntervalosNaoSobrepostos.PNG)
 
 ### 135 - Doces
 
