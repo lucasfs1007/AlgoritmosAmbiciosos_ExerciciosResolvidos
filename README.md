@@ -29,7 +29,8 @@ A aplicação dos conceitos de **Algoritmos Ambicioso** aprendidos na disciplina
 
 ## Video
 
-[Video](https://youtu.be/)
+Youtube: [Video](https://youtu.be/NT3nYZ8j81Q)
+Arquivo: [Video](https://github.com/projeto-de-algoritmos/AlgoritmosAmbiciosos_ExerciciosResolvidos/blob/master/pa-trabalho-3.mp4)
 
 ## Screenshots
 
